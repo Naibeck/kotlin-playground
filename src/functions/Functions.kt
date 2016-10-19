@@ -1,6 +1,8 @@
 package functions
 
 /**
+ * Functions.kt
+ * ------------
  * This class will sum numbers from different methods and
  * will display the same result with 4 different types of
  * functions
